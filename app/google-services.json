@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085387152268",
+    "firebase_url": "https://magazine-588a7.firebaseio.com",
+    "project_id": "magazine-588a7",
+    "storage_bucket": "magazine-588a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085387152268:android:948a4b6381b16e87",
+        "android_client_info": {
+          "package_name": "com.example.magazine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085387152268-dbvvph81jkcodar3k0b1ni7tjvkrt2jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.magazine",
+            "certificate_hash": "8bd8c5209911e650a11859fd775ba66e5b64632a"
+          }
+        },
+        {
+          "client_id": "1085387152268-b815qhsoa65sk4l4diqad7n2gs15tlcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvx_rXm6E3JrcESup4ZO2DMjcI6s3oKdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085387152268-b815qhsoa65sk4l4diqad7n2gs15tlcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
